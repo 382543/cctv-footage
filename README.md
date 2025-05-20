@@ -1,2 +1,2 @@
 # cctv-footage
-Cctv footage Descriptin
+Cctv footage Description
